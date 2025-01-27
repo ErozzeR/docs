@@ -3,5 +3,5 @@
   "version": "1.0.0",
   "description": "Ручная документация",
   "source": "doc", // Укажите папку с Markdown-файлами
-  "formats": ["md"] // Укажите, что используете только Markdown
+  "formats": ["mdx"] // Укажите, что используете только Markdown
 }
