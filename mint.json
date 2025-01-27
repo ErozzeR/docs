@@ -2,6 +2,6 @@
   "name": "Моя документация",
   "version": "1.0.0",
   "description": "Ручная документация",
-  "source": "docs", // Укажите папку с Markdown-файлами
+  "source": "doc", // Укажите папку с Markdown-файлами
   "formats": ["md"] // Укажите, что используете только Markdown
 }
